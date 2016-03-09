@@ -27,6 +27,7 @@ gem 'devise'
 gem 'high_voltage'
 gem 'bootstrap-sass', '2.3.2.2'
 gem 'simple_form'
+gem "pry"
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
